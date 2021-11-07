@@ -1,5 +1,5 @@
-# Job-title-Classification-by-industry
-(Multi-text Text Classification Task)
+# Job title Classification by industry
+(Multi-text Text Classification Task)<br>
 In order to run the application (via cmd)
 
 1- Download the repository
