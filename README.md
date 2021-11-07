@@ -2,7 +2,7 @@
 (Multi-text Text Classification Task)<br>
 In order to run the application (via cmd)
 
-1- Download the repository
+1- Download the repository then navigate to it
 
 2- create a virtual enviroment >py -m venv .env  ((optional))
 
