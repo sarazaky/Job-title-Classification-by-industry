@@ -1,5 +1,8 @@
 # Job title Classification by industry
 (Multi-text Text Classification Task)<br>
+
+Demo: https://youtu.be/0P6NbQJLhuE
+
 In order to run the application (via cmd)
 
 1- Download the repository then navigate to it
